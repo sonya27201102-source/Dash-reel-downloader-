@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Dash Reel</string>
+    <string name="app_full_name">Dash Reel Downloader</string>
+    <string name="paste_link_hint">Paste reel or short video link here…</string>
+    <string name="btn_download">Download Reel</string>
+    <string name="btn_paste">Paste Link</string>
+    <string name="btn_fetch_info">Inspect Reel</string>
+    <string name="trending_reels_title">Sample &amp; Demo Reels</string>
+    <string name="my_downloads_title">Saved Reels</string>
+    <string name="empty_downloads_title">No Saved Reels Yet</string>
+    <string name="empty_downloads_desc">Paste a reel link or download sample reels above to get started!</string>
+</resources>

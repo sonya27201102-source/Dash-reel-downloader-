@@ -1,0 +1,6 @@
+{
+  "name": "Dash Reel Downloader",
+  "description": "Fast, seamless reel and short video downloader with offline HD player, link parser, and organized library.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
